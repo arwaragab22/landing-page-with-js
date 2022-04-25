@@ -1,0 +1,42 @@
+body {
+  height: 100vh;
+  background-color: black;
+  margin: 0px;
+  font-family: "Open Sans", sans-serif;
+}
+
+@media (max) {
+}
+nav {
+  color: white;
+}
+ul {
+  display: flex;
+
+  list-style: none;
+}
+a {
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  flex-direction: column;
+}
+button {
+  font-size: 20px;
+  text-transform: capitalize;
+  background-color: white;
+  border:none;
+  padding: 10px;
+  outline: none;
+ transition: 2s;
+  
+}
+#F6D860
+#95D1CC
+#1B1A17
+#DDDDDD
+#FF6FB5
+#DEB6AB
